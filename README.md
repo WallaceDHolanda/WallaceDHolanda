@@ -5,7 +5,7 @@
   <li>🔬 Entusiasta em Ciência de Dados e Aprendizado de Máquina</li>
 </ul>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/WallaceHolanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceDHolanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
